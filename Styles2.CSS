@@ -6,7 +6,6 @@
 }
 
 
-
 nav{
       display: flex;
       justify-content: space-around;
@@ -15,8 +14,6 @@ nav{
       background-color: seashell;
       font-family: 'Robot Mono', monospace;
       position: relative;
-}
-
 
 
 .logo{
@@ -84,7 +81,6 @@ nav{
     display: block;
     transition: 0.3s;
   }
-
 
 .burger{
   display: none;
